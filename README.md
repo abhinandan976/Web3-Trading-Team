@@ -117,7 +117,3 @@ The findings can help in building sentiment-aware trading systems that:
    ```bash
    git clone https://github.com/abhinandan976/Web3-Trading-Team.git
    cd Web3-Trading-Team
-
-
-## Project Structure
-
